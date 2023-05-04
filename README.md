@@ -63,6 +63,9 @@ t-test를 이용해 P-values: 0.0002로 ,P-values 값이 유의수준인 0.05보
 일본지역에서는 Role-playing, 액션, 스포츠
 <img width="500" src="https://user-images.githubusercontent.com/102473586/236318903-e5dc3533-2b4c-4393-a852-4a3758c02767.png">
 
+
+
+
 기타지역에서는 액션, 스포츠, shooter 순으로 나타났다는것을 알 수 있었습니다.
 
 <img width="500" src="https://user-images.githubusercontent.com/102473586/236318995-e3cc050a-8657-472a-b1c3-30de91babb99.png">
