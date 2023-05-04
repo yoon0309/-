@@ -52,11 +52,9 @@ t-test를 이용해 P-values: 0.0002로 ,P-values 값이 유의수준인 0.05보
 
 
 
-
 유럽지역에서는 액션,스포츠, shooter
 
 <img width="500" src="https://user-images.githubusercontent.com/102473586/236316879-c3c48091-958d-477b-a557-8713e532f729.png">
-
 
 
 
@@ -66,12 +64,13 @@ t-test를 이용해 P-values: 0.0002로 ,P-values 값이 유의수준인 0.05보
 
 
 
-
 기타지역에서는 액션, 스포츠, shooter 순으로 나타났다는것을 알 수 있었습니다.
 
 <img width="500" src="https://user-images.githubusercontent.com/102473586/236318995-e3cc050a-8657-472a-b1c3-30de91babb99.png">
 
-지역들에서 공통적으로 좋아하는 게임은 액션,스포츠라는 것을 알 수 있습니다.
+
+
+###### 지역들에서 공통적으로 좋아하는 게임은 액션,스포츠 라는 것을 알 수 있습니다.
 
 ---
 
@@ -102,7 +101,7 @@ Total_Sales 총 매출로 보면 Wii Sports인 Sports장르가 82.74로 많이 �
 
 ---
 
-총 결론:
+##### 총 결론:
 
 전 지역 타겟팅을 한다면 sport 장르, PS2북미 Action장르 ,X360플랫폼 이용
 
