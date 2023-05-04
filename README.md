@@ -48,7 +48,7 @@ t-test를 이용해 P-values: 0.0002로 ,P-values 값이 유의수준인 0.05보
 
 북미지역에서는 엑션, 스포츠, shooter
 
-<img width="80" src="https://user-images.githubusercontent.com/102473586/236314925-39228af7-4f80-483a-867e-a8a59ee16516.png">
+<img width="500" src="https://user-images.githubusercontent.com/102473586/236314925-39228af7-4f80-483a-867e-a8a59ee16516.png">
 
 유럽지역에서는 액션,스포츠, shooter
 
