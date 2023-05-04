@@ -52,11 +52,11 @@ t-test를 이용해 P-values: 0.0002로 ,P-values 값이 유의수준인 0.05보
 
 유럽지역에서는 액션,스포츠, shooter
 
-![download.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff59117f-d758-4349-b7ea-8189a1c5bafc/download.png)
+<img width="200" src="https://user-images.githubusercontent.com/102473586/236316879-c3c48091-958d-477b-a557-8713e532f729.png">
 
 일본지역에서는 Role-playing, 액션, 스포츠
 
-![download.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d67e8e3-4efc-4237-b607-0d3cc022c690/download.png)
+<img width="200" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d67e8e3-4efc-4237-b607-0d3cc022c690/download.png">
 
 기타지역에서는 액션, 스포츠, shooter 순으로 나타났다는것을 알 수 있었습니다.
 
