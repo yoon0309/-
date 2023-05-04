@@ -61,12 +61,11 @@ t-test를 이용해 P-values: 0.0002로 ,P-values 값이 유의수준인 0.05보
 
 
 일본지역에서는 Role-playing, 액션, 스포츠
-
-src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d67e8e3-4efc-4237-b607-0d3cc022c690/download.png">
+<img width="500" src="https://user-images.githubusercontent.com/102473586/236318903-e5dc3533-2b4c-4393-a852-4a3758c02767.png">
 
 기타지역에서는 액션, 스포츠, shooter 순으로 나타났다는것을 알 수 있었습니다.
 
-![download.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5fc2b452-2646-43ee-b5cd-3bdc5d314bc8/download.png)
+<img width="500" src="https://user-images.githubusercontent.com/102473586/236318995-e3cc050a-8657-472a-b1c3-30de91babb99.png">
 
 지역들에서 공통적으로 좋아하는 게임은 액션,스포츠라는 것을 알 수 있습니다.
 
