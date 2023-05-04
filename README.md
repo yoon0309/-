@@ -77,19 +77,20 @@ Total_Sales 총 매출로 보면 Wii Sports인 Sports장르가 82.74로 많이 �
 
 북미 -X360, PS2,/ Wii
 
-![download.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7f0953d1-c7d2-47e7-b8b9-54bbbb7d17de/download.png)
+<img width="500" src="https://user-images.githubusercontent.com/102473586/236319357-9cda1689-f619-47b5-a74e-f85947680d20.png">
 
 유럽 -PS3, PS2,/ X360
 
-![download.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b0563a0-e636-4cfd-8494-8b4aacc9ec6c/download.png)
+<img width="500" src="https://user-images.githubusercontent.com/102473586/236319443-4df5d43f-15a8-42fb-9776-524924b37898.png">
+
 
 일본 -DS /PS PS2
 
-![download.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d9ac9582-e86e-403e-93ca-5c2ee912cd24/download.png)
+<img width="500" src="https://user-images.githubusercontent.com/102473586/236319504-482bd7c9-c881-4718-b408-b88f555ca365.png">
 
 기타지역 -PS2, PS3, X360, wii
 
-![download.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f25e17a2-382e-4707-8af9-4ea5ad2a9c5a/download.png)
+<img width="500" src="https://user-images.githubusercontent.com/102473586/236319566-7a9c4fbb-9f92-4503-ab11-c96dfab92adf.png">
 
 플랫폼 top3의 상위권에 항상 속해있는 PS2 플랫폼을 이용하여 게임을 출시해야한다.
 
@@ -109,6 +110,7 @@ Total_Sales 총 매출로 보면 Wii Sports인 Sports장르가 82.74로 많이 �
 
 ### 6. 한계점 및 해결방안  
 
-먼저, 프로젝트를 앞서 데이터셋에 집중하느라 데이터만 보고 프로젝트를 진행했던 점이 문제였고 그래프를 시이적절하게 사용하지 못하였고, 그래프 실력이 미숙했다 
+1) 프로젝트를 앞서 데이터셋에 집중하느라 데이터만 보고 프로젝트를 진행했던 점
+2) 그래프를 시이적절하게 사용하지 못하였고, 그래프 실력이 미숙했다
 
 → 다음 프로젝트 전에는 자료조사를 우선적으로 하고 필요한 그래프의 특징을 미리 공부해야함을 깨달았습니다. 
